@@ -8,4 +8,7 @@ Mobile first Blog.   HTML with some vanilla JavaScript
   #### Navbar Search
   #### Slider using swiper.js
   #### Remix icons Library
+  #### Media queries
+  #### Flexbox
+  #### CSS Grid
   
